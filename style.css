@@ -1,0 +1,23 @@
+.topnav {
+	border-bottom: 1px solid black;
+	box-shadow: 0px 0px 25px black;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 2em;
+	padding: 1em;
+	background-color: #eee;
+	z-index: 10;
+	vertical-align: middle;
+}
+
+.topnav p {
+	margin: 0;
+	font-size: 1.5em;
+}
+
+.content {
+	top:4em;
+	position: absolute;
+}
